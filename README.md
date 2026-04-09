@@ -46,7 +46,7 @@
 chest-xray-classification/
 ├── README.md
 ├── requirements.txt
-└── lab1.ipynb          # ноутбук с полным пайплайном
+└── CV_mai_8.ipynb          # ноутбук с полным пайплайном
 ```
 
 ## Инструкция по запуску
