@@ -64,7 +64,7 @@ chest-xray-classification/
 git clone https://github.com/USERNAME/chest-xray-classification.git
 cd chest-xray-classification
 pip install -r requirements.txt
-jupyter notebook lab1.ipynb
+jupyter notebook CV_mai_8.ipynb
 ```
 
 Требуется GPU с поддержкой CUDA. Для скачивания датасета необходим файл `kaggle.json`.
